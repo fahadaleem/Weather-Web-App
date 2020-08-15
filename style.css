@@ -1,0 +1,61 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'lato';
+}
+
+
+body
+{
+    background-color: #636687;
+}
+
+.container
+{
+    max-width: 480px;
+    min-width: 380px;
+}
+
+#weather-section
+{
+    background-color: white;
+    max-width: 450px;
+    min-width: 360px;
+}
+
+#heading-weather
+{
+    color:white;
+}
+
+#day-night-image
+{
+    height: 230px;
+    width: 100%;
+}
+
+#time, #city-name
+{
+    font-size: 1.5rem;
+}
+
+#weather-icon
+{
+    font-size: 6rem;
+}
+#status
+{
+    font-size: 2rem;
+}
+#temperature
+{
+    font-size: 4rem;
+}
+
+.wi-thermometer
+{
+    font-size: 3rem;
+}
+
+/* loader */
